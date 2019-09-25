@@ -40,15 +40,6 @@ public class qustion_16 {
             sum /= 10;
         }
         System.out.println("The number of even numbers in the sum: " + count);
-
-
-
-
-
-
-
-
-
     }
 }
 
